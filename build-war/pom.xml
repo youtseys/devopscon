@@ -36,7 +36,7 @@
 					<server>TomcatServer</server>
 					<path>/helloworld</path>
 					<username>admin</username>
-					<password>admin</password>
+					<password>TomactPassword123</password>
 				</configuration>
 
 				<executions>
